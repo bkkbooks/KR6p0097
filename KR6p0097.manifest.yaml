@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6p0097/v1
+canonical_location: https://kanripo.org/bkk/KR6p0097/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 東海若解
+  identifiers:
+    alt_id:
+    - X62n1178
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1178.xml
+    old_id: X62n1178
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0097_000.yaml, hash: 'sha256:c694372a6665e0000d4e8cf4c33500b6812edfbc0007d94704cb2a8545054a39'}
+  - {seq: 1, filename: KR6p0097_001.yaml, hash: 'sha256:d54bf5284958e24ec18a4eff0a3d7eedd05233c93d5e3dfab9a66e17b8629a5c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6p0097_001.markers.yaml, hash: 'sha256:4ed661f678839501b6e3642881226316f0fbb4dec53fac6cc352203573af06bf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0097_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5940
+  label: 東海若解
+  type: juan
+  level: 1
+hash: sha256:e75a027b4a47629d28e802f11eb8e31b4a4052295271613eb04f9dfc36a7e91a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0097/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 東海若解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1178.xml
+    old_id: X62n1178
+hash: sha256:c694372a6665e0000d4e8cf4c33500b6812edfbc0007d94704cb2a8545054a39
